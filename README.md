@@ -1,10 +1,3 @@
-<img width="1677" alt="papikos" src="https://github.com/andes2912/papi-kos/assets/42151067/f178ce2d-dd76-4e1e-b584-24ea671445c4">
-
-<img width="1677" alt="papikos1" src="https://github.com/andes2912/papi-kos/assets/42151067/6fddba18-9c00-4bd2-98bd-b62719a90e4d">
-
-<img width="1675" alt="papikos2" src="https://github.com/andes2912/papi-kos/assets/42151067/fc1104e5-90ec-4d4c-b68b-c10ac0ca1e88">
-
-
 # Pap!Kos - Tempat Pencarian Kos dan Apartemen
 
 <p>Halo, ini adalah Pap!Kos aplikasi Pencarian Kost dan Apartement, desain dan fitur sebagian terinpirasi dari aplikasi Mamikos.  Aplikasi ini akan terus mendapat update secara berkala. Mohon untuk memberi issue jika kalian menemui bug pada saat penginstalan atau saat menggunakan aplikasi ini. Terima kasih <br/>
@@ -14,10 +7,6 @@
 * PHP 7.3 or higher
 * Database (eg: MySQL)
 * Web Server (eg: Apache, Nginx, IIS)
-    
-## Framework
-
-Pap!Kos dibangun menggunakan [Laravel](http://laravel.com), the best existing PHP framework, as the foundation framework.
 
 ## Installation
 
@@ -39,4 +28,17 @@ Support Pap!Kos by becoming a sponsor on [Saweria](https://saweria.co/andes2912)
 ## Buy this App ?
  
 Please contact me on [Andri Desmana](mailto:andridesmana29@outlook.com?subject=[GitHub]%20Questesion%20Pap!Kos) or [Telegram](https://t.me/andridesmana)
+
+## Framework
+
+Pap!Kos dibangun menggunakan [Laravel](http://laravel.com), the best existing PHP framework, as the foundation framework.
+
+## Homepage
+<img width="1677" alt="papikos" src="https://github.com/andes2912/papi-kos/assets/42151067/f178ce2d-dd76-4e1e-b584-24ea671445c4">
+
+## List Kamar
+<img width="1677" alt="papikos1" src="https://github.com/andes2912/papi-kos/assets/42151067/6fddba18-9c00-4bd2-98bd-b62719a90e4d">
+
+## Detail Kamar
+<img width="1675" alt="papikos2" src="https://github.com/andes2912/papi-kos/assets/42151067/fc1104e5-90ec-4d4c-b68b-c10ac0ca1e88">
   
